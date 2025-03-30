@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>App Ads</title>
+</head>
+<body>
+    <h1>Welcome to the App Ads Page</h1>
+    <p>App-ads.txt file is available <a href="app-ads.txt">here</a>.</p>
+</body>
+</html>
